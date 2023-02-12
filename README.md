@@ -42,7 +42,7 @@ https://console.cloud.google.com/storage/browser/connectedbooks-output
 
 ## Authors
 
-Student ID: B916999
+Boryana Valkova
 
 ## Acknowledgments
 
